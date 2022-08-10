@@ -73,8 +73,3 @@ function writeToJson (filePathName, list) {
   })
 }
 module.exports = { writeToCSV, writeToJson }
-// module.exports = {
-//   writeToCSV,
-//   writeToJson
-// };
-// writeToCSV([{name: "Vignesh", age: "20"}], './export.csv', ',')

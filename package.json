@@ -1,6 +1,6 @@
 {
   "name": "list-of-json-to-csv",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This module will convert json object into csv file",
   "main": "index.js",
   "scripts": {
